@@ -1,0 +1,2 @@
+../drivers/Src/stm32l47xx_systick.c:19:6:systick_init	1
+../drivers/Src/stm32l47xx_systick.c:26:6:delay_ms	3

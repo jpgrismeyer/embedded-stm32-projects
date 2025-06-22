@@ -1,0 +1,4 @@
+../drivers/Src/stm32l47xx_hts221.c:15:9:HTS221_ReadWHOAMI	1
+../drivers/Src/stm32l47xx_hts221.c:26:6:HTS221_PowerOn	1
+../drivers/Src/stm32l47xx_hts221.c:35:9:HTS221_ReadTemperatureRaw	1
+../drivers/Src/stm32l47xx_hts221.c:50:9:HTS221_ReadHumidityRaw	1
