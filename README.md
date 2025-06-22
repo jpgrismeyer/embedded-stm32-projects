@@ -55,7 +55,7 @@ stm32l47xx_drivers/
 **Juan Pablo Grismeyer**  
 Electronics Engineer | Embedded Software Developer (Junior)  
 Based near Munich, Germany 🇩🇪  
-[jp.grismeyer@email.de](mailto:jp.grismeyer@email.de)
+[juampagrismeyer@gmail.com](mailto:juampagrismeyer@gmail.com)
 
 ---
 
