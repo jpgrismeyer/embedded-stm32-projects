@@ -1,8 +1,7 @@
 /*
  * 001led_toggle.c
  *
- *  Created on: Feb 7, 2025
- *      Author: admin
+ *      Author: Juan Pablo Grismeyer
  */
 #include "stm32l47xx.h"
 
